@@ -1,6 +1,7 @@
 ---
 cover: https://design.oracle.com/asset/images/1secc-bg.png
 coverY: -386.9639794168096
+layout: landing
 ---
 
 # What is Oracle Cloud?
