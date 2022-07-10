@@ -6,9 +6,7 @@ layout: landing
 
 # What is Oracle Cloud?
 
-Here are a couple of examples of succinct overviews from products with really great docs:
-
-## Getting Started
+Cloud documents for humans
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
